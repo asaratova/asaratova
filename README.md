@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asaratova - Alina - she/her/hers
-- 👀 I’m interested in AI, robotics, music, teaching, and sustainability
+- 👀 I’m interested in AI, robotics, cool math, music, teaching, and sustainability
 - 🌱 I’m currently learning React on Udemy
 - 📫 How to reach me: alinasaratova11@gmail.com
 - ✨ Welcome gals, gamers, and groovy people!
